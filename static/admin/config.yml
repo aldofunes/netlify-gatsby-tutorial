@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: aldofunes/netlify-gatsby-tutorial
 
 media_folder: static/assets
 
